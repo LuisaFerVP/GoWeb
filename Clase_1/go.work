@@ -1,0 +1,7 @@
+go 1.21.5
+
+use (
+	./GoWeb/Ejercicio_1
+	./GoWeb/Ejercicio_2
+	./GoWeb/Ejercicio_3
+)
